@@ -1,12 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=shark&color=000000&height=200&section=header&text=Meryam%20Bejaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=20&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20Software%20Engineering&descAlign=50&descAlignY=40&descSize=16&descColor=FFFFFF)
 
 
-
-
-
-
-
-
 # 👋🏻 Hello, I'm Meryam 📍 Based in Tunisia 
 
 🎓 Cloud & IT Architecture Student | ☁️ Aspiring DevOps Engineer | 🌐 Network Administrator |💻 passionate about Software Development
@@ -55,7 +49,7 @@
 ![Meryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryambej&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meryambej&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=meryambej&theme=radical)
-![3D Contributions](https://raw.githubusercontent.com/meryambej/GetToKnowMe/output/github-contribution-grid-snake.svg)
+
 
 
 
