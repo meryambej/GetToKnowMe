@@ -1,5 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=200&section=header&text=Meryam%20Bejaoui&fontSize=40&fontColor=000000&fontAlignY=35&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20Software%20Engineering&descAlign=50&descAlignY=60&descSize=16&descColor=000000)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Meryam%20Bejaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20Software%20Engineering&descAlignY=60&descAlign=50&descSize=16&descColor=FFFFFF)
 
 
 # 👋🏻 Hello, I'm Meryam
