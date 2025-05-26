@@ -1,6 +1,6 @@
 # 👋🏻 Hello , I'm Meryam
 ☁️ IT Architecture & Cloud Computing Engineering Student | 🛠️ Aspiring DevOps Engineer | 🌐 Network Administrator | 💻Passionate about Software Development
-💡 Passionate about virtualization, infrastructure, and system design
+
 
 ## 🔧 Skills & Tools
 
