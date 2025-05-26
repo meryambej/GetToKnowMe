@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Meryam
+# 👋🏻 Hello, I'm Meryam
 
 🚀 Cloud Engineer | 🌍 DevOps Enthusiast 
 💡 Passionate about virtualization, infrastructure, and system design
@@ -7,13 +7,42 @@
 
 ![Linux](https://img.shields.io/badge/Linux-CLI-brightgreen)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-blue)
-![KVM](https://img.shields.io/badge/KVM-Virtualization-purple)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5)
+![Azure](https://img.shields.io/badge/Azure-Cloud-007FFF)
+![OpenStack](https://img.shields.io/badge/OpenStack-Cloud-E03238)
+
 ![Oracle](https://img.shields.io/badge/Oracle-DB-red)
+![MariaDB](https://img.shields.io/badge/MariaDB-Relational-003545)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
+
+![KVM](https://img.shields.io/badge/KVM-Virtualization-purple)
 ![Nginx](https://img.shields.io/badge/Nginx-HTTP--Server-orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326ce5)
+
 ![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F)
 ![.NET](https://img.shields.io/badge/.NET-Platform-512BD4)
-![Angular](https://img.shields.io/badge/Angular-WebApp-DD0031)
+![Angular](https://img.shields.io/badge/Angular-Framework-DD0031)
+
+![C](https://img.shields.io/badge/C-Language-00599C)
+![C%23](https://img.shields.io/badge/C%23-Programming-239120)
+![Python](https://img.shields.io/badge/Python-Code-3776AB)
+![Java](https://img.shields.io/badge/Java-Programming-007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-Client--Side-F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-StronglyTyped-3178C6)
+
+![HTML](https://img.shields.io/badge/HTML-Markup-E34F26)
+![CSS](https://img.shields.io/badge/CSS-Styling-1572B6)
+
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37)
+![Swagger](https://img.shields.io/badge/Swagger-API_Doc-85EA2D)
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717)
+
+![UML](https://img.shields.io/badge/UML-Modeling-000000)
+![Design](https://img.shields.io/badge/Graphic%20Design-Creativity-FF69B4)
+
 
 ## 📊 GitHub Stats
 
