@@ -48,7 +48,7 @@
 
 ![Meryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryambej&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meryambej&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=meryambej&theme=radical)
+
 
 
 
