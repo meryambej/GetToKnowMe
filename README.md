@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=shark&color=000000&height=200&section=header&text=Meryam%20Bejaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=20&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20Software%20Engineering&descAlign=50&descAlignY=40&descSize=16&descColor=FFFFFF)
 
 
-# 👋🏻 Hello, I'm Meryam 📍 Based in Tunisia 
+# 👋🏻 Hello, I'm Meryam 📍 Based in 🇹🇳 Currently in France
 
 ☁️ Final-Year Cloud & IT Architecture Student | 🌐 Exchange student @ISEP Paris
 
