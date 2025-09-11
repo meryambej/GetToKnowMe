@@ -3,7 +3,7 @@
 
 # 👋🏻 Hello, I'm Meryam 📍 Based in Tunisia 
 
-🎓 Cloud & IT Architecture Student | ☁️ Aspiring DevOps Engineer | 🌐 Network Administrator |💻 passionate about Software Development
+☁️ Final-Year Cloud & IT Architecture Student | 🌐 Exchange student @ISEP Paris
 
 
 # ⚙️ Tech Stack & Tools
