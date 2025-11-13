@@ -1,9 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=shark&color=000000&height=200&section=header&text=Meryam%20Bejaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=20&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20Software%20Engineering&descAlign=50&descAlignY=40&descSize=16&descColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=shark&color=000000&height=200&section=header&text=Meryam%20Bejaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=20&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20Fullstack%20Devloper&descAlign=50&descAlignY=40&descSize=16&descColor=FFFFFF)
 
 
-# 👋🏻 Hello, I'm Meryam 🌍 Currently in Paris , France 📍Based in Tunisia 
-
-☁️ Final-Year Cloud & IT Architecture Student | 🌐 Exchange student @ISEP Paris
+# 👋🏻 Hello, I'm Meryam 🌍 Currently in Paris , 🇫🇷
+☁️ Final-year IT Architecture & Cloud Computing Engineering Student | 💻Fullstack Developer | 🌐 Exchange Student @ISEP Paris | 🔎 Looking for an end-of-studies internship
 
 
 # ⚙️ Tech Stack & Tools
