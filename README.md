@@ -45,8 +45,9 @@
 
 ## 🌟 GitHub Stats
 
-![Meryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryambej&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meryambej&layout=compact&theme=radical)
+![Meryam's GitHub stats](https://github-readme-stats-mirror.vercel.app/api?username=meryambej&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=meryambej&layout=compact&theme=radical)
+
 
 
 
