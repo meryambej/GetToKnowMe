@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate minimal user stats
+      - name: Generate minimal user stats including private repos
         uses: cicirello/user-statistician@v1
         with:
           image-file: images/userstats.svg
@@ -22,7 +22,8 @@ jobs:
           hide-keys: true
           commit-and-push: false
           locale: "en"
-          max-languages: 5
-          category-order: "languages, contributions, general"
+          max-languages: 10
+          include-private: true          # <--- include private contributions
+          category-order: "languages, contributions"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
