@@ -46,14 +46,8 @@
 ## 🌟 GitHub Stats 
 ### ✅ My contribution Graph : 
 ![Meryam's GitHub Activity](https://ghchart.rshah.org/meryambej)
-### 🏆 Languages Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)        <!-- Blue -->
-![Java](https://img.shields.io/badge/Java-F17E1D?style=for-the-badge&logo=java&logoColor=white)          <!-- Orange -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <!-- Yellow -->
-![C#](https://img.shields.io/badge/C%23-9B59B6?style=for-the-badge&logo=c-sharp&logoColor=white)          <!-- Purple -->
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <!-- Dark Blue -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)       <!-- Red/Orange -->
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)            <!-- Greenish Blue -->
+### 🏆 My most used Stack:
+![My GitHub Statistics](images/userstats.svg)
 
 
 
