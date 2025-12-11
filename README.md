@@ -46,7 +46,7 @@
 ## 🌟 GitHub Stats 
 ### ✅ My contribution Graph : 
 ![Meryam's GitHub Activity](https://ghchart.rshah.org/meryambej)
-### 🏆 My most used Stack:
+### 🏆 Other Info :
 ![My GitHub Statistics](images/userstats.svg)
 
 
