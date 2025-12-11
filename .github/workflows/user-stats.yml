@@ -12,9 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate user stats
+      - name: Generate minimal user stats
         uses: cicirello/user-statistician@v1
         with:
           image-file: images/userstats.svg
+          include-title: true
+          custom-title: "MeryamB's GitHub Stats"
+          colors: "light"
+          hide-keys: true
+          commit-and-push: false
+          locale: "en"
+          max-languages: 5
+          category-order: "languages, contributions, general"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
