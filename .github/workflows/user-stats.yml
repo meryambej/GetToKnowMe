@@ -20,7 +20,7 @@ jobs:
           custom-title: "MeryamB's GitHub Stats"
           colors: "light"
           hide-keys: true
-          commit-and-push: false
+          commit-and-push: true
           locale: "en"
           max-languages: 10
           include-private: true          # <--- include private contributions
