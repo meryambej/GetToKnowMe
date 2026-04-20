@@ -2,8 +2,7 @@
 
 
 # 👋🏻 Hello, I'm Meryam 🌍 Currently in Paris , 🇫🇷
-☁️ Final-year IT Architecture & Cloud Computing Engineering Student | 💻Fullstack Developer | 🌐 Exchange Student @ISEP Paris | 🔎 Looking for an end-of-studies internship
-
+☁️ Final-year IT Architecture & Cloud Computing Engineering Student | 💻Fullstack Developer 
 
 # ⚙️ Tech Stack & Tools
 
